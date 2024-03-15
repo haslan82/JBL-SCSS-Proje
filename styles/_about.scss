@@ -1,0 +1,13 @@
+.about{ 
+   &__data{
+text-align: center;
+   }
+   &__img{
+    width: 280px;
+    margin: auto;
+  /*margin auto; & justify-self: center;  ikiside aynı işlevi görüyor burda*/   
+}
+&__description{
+    margin-block: 10px 40px; /* margin-bottom: 40px; margin-top: 10px; margin-blok ile aynı */
+}
+}
